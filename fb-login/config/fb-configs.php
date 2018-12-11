@@ -8,8 +8,8 @@ require './vendor/autoload.php';
 
 // keys for the app
 $fb = new Facebook\Facebook([
-	'app_id' => '281838899199643',
-	'app_secret' => '2fc383db96f46442240747021b8d07bb',
+	'app_id' => '',
+	'app_secret' => '',
 ]);
 
 // get login redirect helper
